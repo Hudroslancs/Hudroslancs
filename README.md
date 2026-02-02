@@ -26,5 +26,7 @@ My journey began when I was forced to learn networking due to a lack of technica
 ## 🔭 Current Projects
 - **[Home Lab Infrastructure](https://github.com/Hudroslancs/homelab-docu)** - Proxmox-based virtualization environment for cloud, security, and ML learning
 - **NextCloud Private Cloud** - Self-hosted LAMP stack deployment
+- **Jobhunting projects** - N8N for automation. Llama3 for the brain
+- **Digital Jobsheet** - Turned current company's jobsheet to digital. Self-hosted with tailscale
 - **Security Lab** - Kali Linux penetration testing environment (in progress)
 - **CUDA Development** - GPU computing setup on RTX 3060 Ti (planned)
