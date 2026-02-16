@@ -5,7 +5,7 @@ I am an infrastructure engineer, expanding my skills in cloud computing, cyberse
 
 ## Objective
 
-My journey began when I was forced to learn networking due to a lack of technical support. That experience sparked a strong interest in cybersecurity, cloud computing, and CUDA, and I am now actively building hands-on skills to transition into this field.
+My journey began when I was forced to learn networking due to a lack of technical support. That experience sparked a strong interest in cybersecurity, cloud computing, and CUDA, and I am now actively building hands-on skills
 
 ## 🛠️ Tech Stack
 **Cloud & Infrastructure:** AWS, Proxmox VE, KVM, Linux (Ubuntu), Virtualization, Docker  
